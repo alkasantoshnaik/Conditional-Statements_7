@@ -15,7 +15,7 @@ Console.WriteLine("Please enter a Sales Amount ...");
 */
 try
 {
-    //testing github push
+    //testing github pushjj
     // This variable will gather the user input
     string input = Console.ReadLine();
     /* 
